@@ -1,0 +1,3970 @@
+[
+    {
+      "question": "What is your name?",
+      "answer": "My Name is HasGPT."
+    },
+    {
+      "question": "What you can do?",
+      "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+    },
+    {
+      "question": "What is gravity?",
+      "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+    },
+    {
+      "question": "What is an atom?",
+      "answer": "The smallest unit of matter that retains the properties of an element."
+    },
+    {
+      "question": "What is the periodic table?",
+      "answer": "A chart organizing elements by atomic number and chemical properties."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "Approximately 299,792,458 meters per second in a vacuum."
+    },
+    {
+      "question": "What causes a solar eclipse?",
+      "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+    },
+    {
+      "question": "What is DNA?",
+      "answer": "A molecule that carries genetic instructions for life."
+    },
+    {
+      "question": "What is the pH scale?",
+      "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+    },
+    {
+      "question": "What is a black hole?",
+      "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+    },
+    {
+      "question": "What is the greenhouse effect?",
+      "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+    },
+    {
+      "question": "What is Newton\u2019s first law of motion?",
+      "answer": "An object in motion stays in motion unless acted upon by an external force."
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "The simulation of human intelligence in machines."
+    },
+    {
+      "question": "What is a CPU?",
+      "answer": "The central processing unit, the brain of a computer."
+    },
+    {
+      "question": "What is blockchain technology?",
+      "answer": "A decentralized ledger system used for secure transactions."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "The delivery of computing services over the internet."
+    },
+    {
+      "question": "What is virtual reality?",
+      "answer": "A computer-generated simulation of a 3D environment."
+    },
+    {
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "A network of interconnected devices that communicate over the internet."
+    },
+    {
+      "question": "What is 5G technology?",
+      "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+    },
+    {
+      "question": "What is a programming language?",
+      "answer": "A set of instructions used to communicate with computers."
+    },
+    {
+      "question": "What is a data breach?",
+      "answer": "An incident where sensitive information is accessed without authorization."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "A step-by-step process for solving a problem or performing a task."
+    },
+    {
+      "question": "Why do we sleep?",
+      "answer": "To allow the body and brain to rest, repair, and process information."
+    },
+    {
+      "question": "What is the water cycle?",
+      "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+    },
+    {
+      "question": "Why do birds migrate?",
+      "answer": "To find food and suitable breeding conditions."
+    },
+    {
+      "question": "What is an ecosystem?",
+      "answer": "A community of living organisms and their environment."
+    },
+    {
+      "question": "Why is biodiversity important?",
+      "answer": "It ensures ecosystem stability and resilience."
+    },
+    {
+      "question": "What is evolution?",
+      "answer": "The process by which species change over time through natural selection."
+    },
+    {
+      "question": "What is the tallest mountain on Earth?",
+      "answer": "Mount Everest, standing at 8,848 meters."
+    },
+    {
+      "question": "How do bees make honey?",
+      "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+    },
+    {
+      "question": "What causes seasons?",
+      "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+    },
+    {
+      "question": "Why do leaves change color in the fall?",
+      "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+    },
+    {
+      "question": "What is the immune system?",
+      "answer": "The body\u2019s defense system against infections and diseases."
+    },
+    {
+      "question": "What is a vaccine?",
+      "answer": "A substance that stimulates the immune system to fight diseases."
+    },
+    {
+      "question": "What is metabolism?",
+      "answer": "The process by which the body converts food into energy."
+    },
+    {
+      "question": "Why do we get fevers?",
+      "answer": "To help the body fight infections by increasing temperature."
+    },
+    {
+      "question": "What is blood pressure?",
+      "answer": "The force of blood pushing against the walls of arteries."
+    },
+    {
+      "question": "What are carbohydrates?",
+      "answer": "A macronutrient that provides energy to the body."
+    },
+    {
+      "question": "What is insulin?",
+      "answer": "A hormone that regulates blood sugar levels."
+    },
+    {
+      "question": "Why do we yawn?",
+      "answer": "Possibly to cool the brain and increase oxygen intake."
+    },
+    {
+      "question": "What is the placebo effect?",
+      "answer": "A beneficial effect from a treatment that has no active ingredient."
+    },
+    {
+      "question": "What are endorphins?",
+      "answer": "Chemicals in the brain that help relieve pain and stress."
+    },
+    {
+      "question": "What is the Milky Way?",
+      "answer": "The galaxy that contains our solar system."
+    },
+    {
+      "question": "What is a supernova?",
+      "answer": "The explosion of a star at the end of its life cycle."
+    },
+    {
+      "question": "What is the Big Bang Theory?",
+      "answer": "The scientific explanation for the origin of the universe."
+    },
+    {
+      "question": "What is dark matter?",
+      "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+    },
+    {
+      "question": "What is an exoplanet?",
+      "answer": "A planet that orbits a star outside our solar system."
+    },
+    {
+      "question": "What is a comet?",
+      "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+    },
+    {
+      "question": "What is a neutron star?",
+      "answer": "A dense remnant of a massive star after a supernova."
+    },
+    {
+      "question": "What is the Kuiper Belt?",
+      "answer": "A region of icy bodies beyond Neptune."
+    },
+    {
+      "question": "What is an asteroid?",
+      "answer": "A small rocky object orbiting the Sun."
+    },
+    {
+      "question": "What is a light-year?",
+      "answer": "The distance light travels in one year, about 9.46 trillion km."
+    },
+    {
+      "question": "Who was the first human to walk on the Moon?",
+      "answer": "Neil Armstrong in 1969."
+    },
+    {
+      "question": "What was the Renaissance?",
+      "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+    },
+    {
+      "question": "What caused World War I?",
+      "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+    },
+    {
+      "question": "Who was Albert Einstein?",
+      "answer": "A physicist known for developing the theory of relativity."
+    },
+    {
+      "question": "What is the Great Wall of China?",
+      "answer": "A historic fortification built to protect China from invasions."
+    },
+    {
+      "question": "Who wrote \"Hamlet\"?",
+      "answer": "William Shakespeare."
+    },
+    {
+      "question": "What was the Industrial Revolution?",
+      "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+    },
+    {
+      "question": "What was the Cold War?",
+      "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+    },
+    {
+      "question": "What is the United Nations?",
+      "answer": "An international organization founded to promote peace and cooperation."
+    },
+    {
+      "question": "Who was Cleopatra?",
+      "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+    },
+    {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      },
+      {
+        "question": "What is your name?",
+        "answer": "My Name is HasGPT."
+      },
+      {
+        "question": "What you can do?",
+        "answer": "I can answer about Science, Technology, Life & Nature, Astronomy, and History."
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "A force that attracts objects toward the center of the Earth or any other mass."
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "The smallest unit of matter that retains the properties of an element."
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "A chart organizing elements by atomic number and chemical properties."
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "Approximately 299,792,458 meters per second in a vacuum."
+      },
+      {
+        "question": "What causes a solar eclipse?",
+        "answer": "When the Moon passes between the Earth and the Sun, blocking sunlight."
+      },
+      {
+        "question": "What is DNA?",
+        "answer": "A molecule that carries genetic instructions for life."
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "A scale from 0 to 14 that measures how acidic or basic a substance is."
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of space where gravity is so strong that nothing, not even light, can escape."
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The trapping of heat in Earth\u2019s atmosphere by greenhouse gases."
+      },
+      {
+        "question": "What is Newton\u2019s first law of motion?",
+        "answer": "An object in motion stays in motion unless acted upon by an external force."
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "The simulation of human intelligence in machines."
+      },
+      {
+        "question": "What is a CPU?",
+        "answer": "The central processing unit, the brain of a computer."
+      },
+      {
+        "question": "What is blockchain technology?",
+        "answer": "A decentralized ledger system used for secure transactions."
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "The delivery of computing services over the internet."
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "A computer-generated simulation of a 3D environment."
+      },
+      {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "A network of interconnected devices that communicate over the internet."
+      },
+      {
+        "question": "What is 5G technology?",
+        "answer": "The fifth generation of mobile networks with faster speeds and lower latency."
+      },
+      {
+        "question": "What is a programming language?",
+        "answer": "A set of instructions used to communicate with computers."
+      },
+      {
+        "question": "What is a data breach?",
+        "answer": "An incident where sensitive information is accessed without authorization."
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "A step-by-step process for solving a problem or performing a task."
+      },
+      {
+        "question": "Why do we sleep?",
+        "answer": "To allow the body and brain to rest, repair, and process information."
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The continuous movement of water between the Earth\u2019s surface and atmosphere."
+      },
+      {
+        "question": "Why do birds migrate?",
+        "answer": "To find food and suitable breeding conditions."
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "A community of living organisms and their environment."
+      },
+      {
+        "question": "Why is biodiversity important?",
+        "answer": "It ensures ecosystem stability and resilience."
+      },
+      {
+        "question": "What is evolution?",
+        "answer": "The process by which species change over time through natural selection."
+      },
+      {
+        "question": "What is the tallest mountain on Earth?",
+        "answer": "Mount Everest, standing at 8,848 meters."
+      },
+      {
+        "question": "How do bees make honey?",
+        "answer": "They collect nectar, break it down with enzymes, and store it in honeycombs."
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "The tilt of Earth\u2019s axis as it orbits the Sun."
+      },
+      {
+        "question": "Why do leaves change color in the fall?",
+        "answer": "Due to the breakdown of chlorophyll, revealing other pigments."
+      },
+      {
+        "question": "What is the immune system?",
+        "answer": "The body\u2019s defense system against infections and diseases."
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A substance that stimulates the immune system to fight diseases."
+      },
+      {
+        "question": "What is metabolism?",
+        "answer": "The process by which the body converts food into energy."
+      },
+      {
+        "question": "Why do we get fevers?",
+        "answer": "To help the body fight infections by increasing temperature."
+      },
+      {
+        "question": "What is blood pressure?",
+        "answer": "The force of blood pushing against the walls of arteries."
+      },
+      {
+        "question": "What are carbohydrates?",
+        "answer": "A macronutrient that provides energy to the body."
+      },
+      {
+        "question": "What is insulin?",
+        "answer": "A hormone that regulates blood sugar levels."
+      },
+      {
+        "question": "Why do we yawn?",
+        "answer": "Possibly to cool the brain and increase oxygen intake."
+      },
+      {
+        "question": "What is the placebo effect?",
+        "answer": "A beneficial effect from a treatment that has no active ingredient."
+      },
+      {
+        "question": "What are endorphins?",
+        "answer": "Chemicals in the brain that help relieve pain and stress."
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The galaxy that contains our solar system."
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "The explosion of a star at the end of its life cycle."
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The scientific explanation for the origin of the universe."
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "A mysterious substance that makes up most of the universe\u2019s mass."
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "A planet that orbits a star outside our solar system."
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object made of ice, dust, and gas that orbits the Sun."
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A dense remnant of a massive star after a supernova."
+      },
+      {
+        "question": "What is the Kuiper Belt?",
+        "answer": "A region of icy bodies beyond Neptune."
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "A small rocky object orbiting the Sun."
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance light travels in one year, about 9.46 trillion km."
+      },
+      {
+        "question": "Who was the first human to walk on the Moon?",
+        "answer": "Neil Armstrong in 1969."
+      },
+      {
+        "question": "What was the Renaissance?",
+        "answer": "A cultural movement in Europe that marked the rebirth of art, science, and literature."
+      },
+      {
+        "question": "What caused World War I?",
+        "answer": "The assassination of Archduke Franz Ferdinand and rising tensions between nations."
+      },
+      {
+        "question": "Who was Albert Einstein?",
+        "answer": "A physicist known for developing the theory of relativity."
+      },
+      {
+        "question": "What is the Great Wall of China?",
+        "answer": "A historic fortification built to protect China from invasions."
+      },
+      {
+        "question": "Who wrote \"Hamlet\"?",
+        "answer": "William Shakespeare."
+      },
+      {
+        "question": "What was the Industrial Revolution?",
+        "answer": "A period of rapid industrialization and technological advancements in the 18th and 19th centuries."
+      },
+      {
+        "question": "What was the Cold War?",
+        "answer": "A period of political tension between the U.S. and the Soviet Union after World War II."
+      },
+      {
+        "question": "What is the United Nations?",
+        "answer": "An international organization founded to promote peace and cooperation."
+      },
+      {
+        "question": "Who was Cleopatra?",
+        "answer": "The last active ruler of Egypt\u2019s Ptolemaic dynasty."
+      }
+  ]
